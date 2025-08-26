@@ -1,0 +1,2 @@
+# json_parser_app
+JSON成形するPythonGUIアプリ
