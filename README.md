@@ -26,9 +26,3 @@ cd C:\dev\json_parser_app\1.0
 pyinstaller --onefile --noconsole json_parser_app.py
 
 
-フォルダ構造はこんな感じ
-1.0/
- ├─ build/
- ├─ dist/
- │   └─ json_parser_app.exe
- └─ json_parser_app.py
